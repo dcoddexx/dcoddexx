@@ -54,10 +54,9 @@ I'm an Information Technology student (B.Sc) at **Osun State University (UNIOSUN
 | Project | What it does | Stack | Links |
 |---|---|---|---|
 | **weda** | A weather web application | JavaScript | [Code](https://github.com/dcoddexx/weda) |
-| **admin-dashboard** | (one line: what it manages) | TypeScript | [Code](https://github.com/dcoddexx/admin-dashboard) |
-| **CRAFTBOLT-Frontend** | (one line: what the app does) | TypeScript | [Code](https://github.com/dcoddexx/CRAFTBOLT-Frontend) |
-| **InXern** | (one line: what problem it solves) | TypeScript | [Code](https://github.com/dcoddexx/InXern) |
-| **Cropbit** | (one line: what it does) | JavaScript | [Code](https://github.com/dcoddexx/Cropbit) |
+| **admin-dashboard** | An organization management dashboard web application | TypeScript | [Code](https://github.com/dcoddexx/admin-dashboard) |
+| **InXern** | A Job/Internship Opportunity web application | TypeScript | [Code](https://github.com/dcoddexx/InXern) |
+| **Cropbit** | A digital marketplace for farmers and Buyers | JavaScript | [Code](https://github.com/dcoddexx/Cropbit) |
 
 ---
 
