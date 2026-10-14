@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an Information Technology student (B.Sc) at **Osun State University, Osogbo (UNIOSUN)** and a **Frontend Developer intern at X3 Lab Enterprise**. I build responsive web apps with **React, TypeScript and TailwindCSS**, and mobile apps with **React Native**, using **Supabase** on the backend.
+I'm an Information Technology student (B.Sc) at **Osun State University (UNIOSUN)** and a **Frontend Developer intern at X3 Lab Enterprise**. I build responsive web apps with **React, TypeScript and TailwindCSS**, and mobile apps with **React Native**, using **Supabase** on the backend.
 
 <table>
 <tr>
