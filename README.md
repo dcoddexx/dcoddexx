@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Francis Omotayo 👋</h1>
+<h1 align="center">Hi, I'm Francis Omotayo</h1>
 
 <p align="center">
   <em>Frontend developer building clean, fast interfaces for web and mobile.</em>
